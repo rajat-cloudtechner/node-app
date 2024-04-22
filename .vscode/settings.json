@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e30ac341-43f8-41c5-b58d-1598fe18a35a/resourceGroups/rajat-nodewebapp/providers/Microsoft.Web/sites/rajat-nodewebapp",
+    "appService.deploySubpath": "."
+}
